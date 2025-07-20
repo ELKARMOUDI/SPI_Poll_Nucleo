@@ -3,6 +3,9 @@
 ![STM32F411](https://img.shields.io/badge/STM32F411-Nucleo-blue) 
 ![SPI](https://img.shields.io/badge/SPI-Polling_Mode-green)
 
+<img src="https://github.com/user-attachments/assets/5a72e995-7368-4264-94c2-6a3c24e1e8db" width="500" alt="05414600-B875-4191-95CE-3AF596E54D49">
+<img src="https://github.com/user-attachments/assets/e593ba66-1a54-4e63-832c-37b3ac510ae5" width="500" alt="FCCC47DC-F339-4934-BA53-E0A3CFA124E6">
+
 Basic SPI communication in polling mode using STM32F411 Nucleo.
 
 ## Features
