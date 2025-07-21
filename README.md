@@ -13,7 +13,7 @@ Basic SPI communication in polling mode using STM32F411 Nucleo.
 - **8MHz Clock** (32MHz/4 prescaler)
 - **Full-Duplex** communication
 - **10-byte Transfer** demonstration
-- **Polling Mode** implementation
+
 
 ## Hardware Setup
 | Signal | Nucleo Pin | Connection |
